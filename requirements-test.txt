@@ -1,0 +1,8 @@
+boto3
+freezegun
+moto
+pytest
+pytest-cov
+pytest-lazy-fixture
+pytest-responses
+responses
